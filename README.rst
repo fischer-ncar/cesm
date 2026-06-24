@@ -17,9 +17,10 @@ be coordinated through CSEG at NCAR.
 This repository is also connected to slack at http://cesm2.slack.com
 
 **Current CESM releases**
-| The most recent releases of CESM are ``CESM2.1.5`` and ``CESM2.2.2``.
 
-| The ``CESM2.2.z`` release is not a scientifically supported version; that is, we do not have any long simulations with this model version yet. In most cases, users should continue to use the ``CESM2.1.z`` series for their science and especially for CMIP6-related simulations.
+| The most recent releases of CESM are `CESM2.1.5` and `Link text CESM2.2.2`_ .
+
+| The `Link test CESM2.2.z` release is not a scientifically supported version; that is, we do not have any long simulations with this model version yet. In most cases, users should continue to use the ``CESM2.1.z`` series for their science and especially for CMIP6-related simulations.
 
 .. sectnum::
 
