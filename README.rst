@@ -16,11 +16,10 @@ be coordinated through CSEG at NCAR.
 
 This repository is also connected to slack at http://cesm2.slack.com
 
-**Current release version information**
+**Current releases**
+The most recent releases of CESM are CESM2.2.2_ and CESM2.1.5_.
 
-The most recent releases of CESM are CESM2.2.2 and CESM2.1.5.
-
-The CESM2.2.2 release is not a scientifically supported version; that is, we do not have any long simulations with this model version yet. In most cases, users should continue to use the CESM2.1.5 series for their science and especially for CMIP6-related simulations.
+The CESM2.2.2_ release is not a scientifically supported version; that is, we do not have any long simulations with this model version yet. In most cases, users should continue to use the CESM2.1.5_ series for their science and especially for CMIP6-related simulations.
 
 .. sectnum::
 
